@@ -8,6 +8,10 @@ Nano blogging summarizing informations about development industry, such as
 - books
 - videos
 
+Summaries can be short as 
+- Two sentences
+- Cheatsheets
+
 ## Authors
 
 - [@OceaneBourgouin](https://github.com/OceaneBourgouin)
