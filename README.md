@@ -8,13 +8,11 @@ Nano blogging summarizing informations about development industry, such as
 - books
 - videos
 
-Summaries can be short as 
-- Two sentences
-- Cheatsheets
-
-## Inspirations
-
-* [Simply Jekyll](https://bmannconsulting.com/simply-jekyll/): A Jekyll template for posts and notes
+## Categories
+* **shorts** Summary of external news
+* **longs** Personnal reflexions about a specific subject
+* **cheatsheets** Reminder about a subject by answerin to what, why and how
+* **glossary** Collection of glosses 
 
 ## Authors
 
