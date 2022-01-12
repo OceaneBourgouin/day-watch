@@ -1,5 +1,5 @@
 ---
-# front matter tells Jekyll to process Liquid
+layout: default
 ---
 
 index page
