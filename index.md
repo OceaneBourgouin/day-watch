@@ -2,4 +2,4 @@
 layout: default
 ---
 
-index page
+Link to shorts: https://oceanebourgouin.github.io/day-watch/test/
