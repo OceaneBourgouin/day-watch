@@ -9,10 +9,17 @@ Nano blogging summarizing informations about development industry, such as
 - videos
 
 ## Categories
-* **shorts** Summary of external news
-* **longs** Personnal reflexions about a specific subject
-* **cheatsheets** Reminder about a subject by answerin to what, why and how
-* **glossary** Collection of glosses 
+#### Shorts
+Summary of external information
+
+#### Cheatsheets 
+Reminder about a subject by answering to what, why and how
+
+#### Glossary
+Collection of glosses 
+
+#### Longs
+Personnal reflexions about a subject
 
 ## Authors
 
