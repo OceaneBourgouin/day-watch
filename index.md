@@ -1,6 +1,6 @@
 ---
 #layout: default
-title: Home
+title: index
 ---
 
 Welcome to this nano blogging. Shorts are summarizing informations about development industry.  They can be found [here](https://oceanebourgouin.github.io/day-watch/test/)
