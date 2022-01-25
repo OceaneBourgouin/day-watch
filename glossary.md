@@ -1,1 +1,1 @@
-Deep work: State of work with high concentration
+Deep work: State of distraction-free concentration at work
