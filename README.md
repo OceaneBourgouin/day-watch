@@ -9,17 +9,19 @@ Nano blogging summarizing informations about development industry, such as
 - videos
 
 ## Categories
-#### Shorts
-Summary of external information
+* Shorts  
+_Summary of external information_
+* Cheatsheets  
+_Reminder about a subject by answering to what, why and how_
+* Glossary  
+_Collection of glosses_
+* Longs  
+_Personnal reflexions about a subject_
 
-#### Cheatsheets 
-Reminder about a subject by answering to what, why and how
+## Lessons Learned
 
-#### Glossary
-Collection of glosses 
+This project helps me to improve my bash skills, and to organise a bit better my technical watch.
 
-#### Longs
-Personnal reflexions about a subject
 
 ## Authors
 
